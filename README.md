@@ -1,4 +1,4 @@
-# Time based One Time Password
+# CUIT Utilities
 
 Argentina CUIT utilities based [on a wikipedia post](https://es.wikipedia.org/wiki/Clave_%C3%9Anica_de_Identificaci%C3%B3n_Tributaria)
 
