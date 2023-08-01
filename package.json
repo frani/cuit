@@ -1,0 +1,35 @@
+{
+  "name": "@frani/cuit",
+  "description": "Utilities for Argentina CUIT",
+  "version": "1.0.0",
+  "private": false,
+  "homepage": "https://github.com/frani/cuit",
+  "author": "frani <franinnocenti@gmail.com>",
+  "contributors": [
+    "frani (https://frani.dev)"
+  ],
+  "repository": "frani/cuit",
+  "bugs": {
+    "url": "https://github.com/frani/cuit/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=10"
+  },
+  "keywords": [
+    "argentina",
+    "cuit",
+    "no depenencies",
+    "no deps"
+  ],
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
